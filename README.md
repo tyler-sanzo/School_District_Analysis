@@ -10,6 +10,11 @@ Due to possible academic integrity within the freshman class at Thomas High Scho
 
 -The District Summary table was largely unaffected by the removal of the test scores. This is due to the fact that the number of scores removed is very small fraction of the total district scores. The 9th grade class at THS is only 461 students out of 39,170 total in the school district. 
 
+![filename](https://github.com/tyler-sanzo/School_District_Analysis/blob/main/Supplemental%20Images/District%20Summary%20-%20Before%20Cleanup.PNG)
+
+
+![filename](https://github.com/tyler-sanzo/School_District_Analysis/blob/main/Supplemental%20Images/District%20Summary%20-%20After%20Cleanup.PNG)
+
 -The School Summary was similarly unaffected by the removal of the scores. While there was a marginal difference in THS's individual outcomes, it still remained in the same position in the top schools in the district (#2).
 
 -As mentioned in the previous point, the replacement of the ninth graders' math and reading scores did decrease the overall passing rate of the school but not enough to affect the rank within the district.
