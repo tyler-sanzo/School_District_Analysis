@@ -14,13 +14,19 @@ Due to possible academic integrity within the freshman class at Thomas High Scho
 Before Removal
 
 ![filename](https://github.com/tyler-sanzo/School_District_Analysis/blob/main/Supplemental%20Images/District%20Summary%20-%20After%20Cleanup.PNG)
-AFter
+After
 
 -The School Summary was similarly unaffected by the removal of the scores. While there was a marginal difference in THS's individual outcomes, it still remained in the same position in the top schools in the district (#2).
 
 -As mentioned in the previous point, the replacement of the ninth graders' math and reading scores did decrease the overall passing rate of the school but not enough to affect the rank within the district.
 
--Replacing the ninth-grade scores also had affect overall on the tables breaking down each schools test scores by grade. The only difference seen is the ninth grade THS scores replaced by 'nan.
+![filename](https://github.com/tyler-sanzo/School_District_Analysis/blob/main/Supplemental%20Images/School%20Summary%20-%20Before%20Cleanup.PNG)
+Before
+
+![filename](https://github.com/tyler-sanzo/School_District_Analysis/blob/main/Supplemental%20Images/School%20Summary%20-%20After%20Cleanup.PNG)
+After
+
+-Replacing the ninth-grade scores also had little effect overall on the tables breaking down each schools test scores by grade. The only difference seen is the ninth grade THS scores replaced by 'nan'.
 
 -The scores by school spending results were also unaffected and showed identical tables both before and after. This is due the change in the averages within THS's scores were not enough to change the averages within the spending bin they were grouped in.
 
