@@ -33,8 +33,12 @@ Similarly, the scores by school type were also not changed before and after the 
 Because the number of scores changed was so small compared to the total, the results were almost identical before and after. The only noticeable change in results can be seen when looking at the most granular level, THS's individual results. A few of the changes were as follows:
 
 -Average math test score fell by around .067%.
+
 -Average reading test score rose by about .05%.
+
 -Percent of students who passed the math test fell by about .09%.
+
 -Percent of students who passed the reading test fell by about .29%.
+
 
 As we can see, the overall scores even at the most granular level were hardly affected.
